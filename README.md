@@ -15,7 +15,7 @@ In order to compile both server and client applications, you need:
 
 ### Download
 
-If you are a lazy geek or a completely dev noob you can download server and client from the [Release]() section
+If you are a lazy geek or a completely dev noob you can download server and client from the [Release](https://github.com/francescotonini/powerpointremote/releases) section
 
 
 ### Stuff used to make this:
