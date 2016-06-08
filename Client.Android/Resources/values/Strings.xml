@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Powerpoint Remote</string>
+  <string name="ipHint">Indirizzo server (IPv4)</string>
+  <string name="portHint">Porta</string>
+  <string name="connectButton">Connetti!</string>
+  <string name="InvalidInput">Indirizzo IP e/o porta non validi :(</string>
+  <string name="NoConnection">Non connesso</string>
+  <string name="YesConnection">Connesso</string> <!-- YesConnection yayy -->
+  <string name="Next">Avanti</string>
+  <string name="Prev">Indietro</string>
+  <string name="End">Fine presentazione</string>
+</resources>

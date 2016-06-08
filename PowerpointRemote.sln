@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.Android", "Client.Android\Client.Android.csproj", "{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Debug|x64.Build.0 = Debug|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Release|x64.ActiveCfg = Release|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Release|x64.Build.0 = Release|Any CPU
+		{37AF7E20-0B6C-4655-BDF7-31E495B1CECD}.Release|x64.Deploy.0 = Release|Any CPU
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Debug|x64.ActiveCfg = Debug|x64
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Debug|x64.Build.0 = Debug|x64
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Release|x64.ActiveCfg = Release|x64
+		{67F8F71F-5CF3-4311-8E1D-47F36E7F7DEC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

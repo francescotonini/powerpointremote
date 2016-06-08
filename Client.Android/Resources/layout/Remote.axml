@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/activity_margin">
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/status_text_size"
+        android:paddingBottom="@dimen/status_text_bottom_padding"
+        android:text="@string/NoConnection" />
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/button_height"
+        android:text="@string/Next" />
+    <Button
+        android:id="@+id/prevButton"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/button_height"
+        android:text="@string/Prev" />
+    <Button
+        android:id="@+id/endButton"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/button_height"
+        android:text="@string/End" />
+</LinearLayout>
